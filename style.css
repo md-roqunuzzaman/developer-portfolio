@@ -11,3 +11,7 @@ section{display: flex;}.width{width: 50%;padding-left: 5%;}
     .top-banner{
         background-image: url(images/Corner_Banner_Yellow_PNG_Clipart.png);background-repeat: no-repeat;
     }
+    .second section{
+        display: flex;
+    }
+    .second-width img{width:40%;padding: 5%;}.second-width{width: 50%;}
